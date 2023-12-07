@@ -1,0 +1,19 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "test:e2e": "playwright test",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.40.1",
+    "@types/node": "^20.10.1"
+  },
+  "dependencies": {
+    "expect": "^29.7.0",
+    "jest": "^29.7.0"
+  }
+}
